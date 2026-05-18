@@ -42,7 +42,7 @@
         <a href="https://github.com/tanzilgr2288/say-hi-to-docker">say-hi-to-docker</a>
       </h4>
       <p>
-        <sub>Companion material for a "Say Hi! Docker" session &mdash; a friendly, hands-on intro to containers.</sub>
+        <sub>Companion material for a "Say Hi! Docker" session &mdash; a friendly, hands-on intro to containers and Dockerfiles.</sub>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -59,7 +59,7 @@
         <a href="https://github.com/tanzilgr2288/kubetalk-example">kubetalk-example</a>
       </h4>
       <p>
-        <sub>Reference code for a Kubernetes talk on stateful workloads and storage.</sub>
+        <sub>Reference code for a Kubernetes talk on stateful workloads, persistent volumes, and cluster storage.</sub>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
