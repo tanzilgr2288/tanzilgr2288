@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Kevin Setiawan Tanzil — Problem Solver and Dream Builder">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1023"/>
+      <stop offset="55%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="82%" cy="22%" r="36%">
+      <stop offset="0%" stop-color="#A5B4FC" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#A5B4FC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="18%" cy="78%" r="34%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#glowA)"/>
+  <rect width="1200" height="240" fill="url(#glowB)"/>
+
+  <g fill="#F1F5F9">
+    <circle cx="60"   cy="34"  r="0.9" opacity="0.7"/>
+    <circle cx="140"  cy="72"  r="0.6" opacity="0.5"/>
+    <circle cx="215"  cy="28"  r="1.2" opacity="0.9"/>
+    <circle cx="285"  cy="55"  r="0.5" opacity="0.4"/>
+    <circle cx="355"  cy="20"  r="0.8" opacity="0.7"/>
+    <circle cx="420"  cy="64"  r="0.7" opacity="0.5"/>
+    <circle cx="500"  cy="32"  r="1.1" opacity="0.85"/>
+    <circle cx="580"  cy="74"  r="0.6" opacity="0.5"/>
+    <circle cx="655"  cy="22"  r="0.9" opacity="0.75"/>
+    <circle cx="735"  cy="58"  r="0.5" opacity="0.4"/>
+    <circle cx="805"  cy="30"  r="1.0" opacity="0.8"/>
+    <circle cx="880"  cy="68"  r="0.7" opacity="0.55"/>
+    <circle cx="955"  cy="24"  r="0.6" opacity="0.5"/>
+    <circle cx="1030" cy="55"  r="1.2" opacity="0.9"/>
+    <circle cx="1100" cy="26"  r="0.8" opacity="0.7"/>
+    <circle cx="1170" cy="62"  r="0.7" opacity="0.55"/>
+
+    <circle cx="80"   cy="200" r="0.8" opacity="0.6"/>
+    <circle cx="170"  cy="218" r="1.0" opacity="0.8"/>
+    <circle cx="260"  cy="195" r="0.5" opacity="0.4"/>
+    <circle cx="340"  cy="210" r="0.7" opacity="0.55"/>
+    <circle cx="430"  cy="222" r="0.9" opacity="0.7"/>
+    <circle cx="520"  cy="198" r="0.6" opacity="0.5"/>
+    <circle cx="610"  cy="216" r="1.1" opacity="0.85"/>
+    <circle cx="695"  cy="204" r="0.5" opacity="0.4"/>
+    <circle cx="780"  cy="220" r="0.8" opacity="0.65"/>
+    <circle cx="870"  cy="200" r="0.7" opacity="0.55"/>
+    <circle cx="955"  cy="218" r="1.0" opacity="0.8"/>
+    <circle cx="1045" cy="196" r="0.6" opacity="0.5"/>
+    <circle cx="1130" cy="214" r="0.9" opacity="0.7"/>
+  </g>
+
+  <g opacity="0.85">
+    <circle cx="985" cy="48" r="2.4" fill="#FDE68A"/>
+    <circle cx="985" cy="48" r="6"   fill="#FDE68A" opacity="0.18"/>
+  </g>
+
+  <text x="600" y="118"
+        font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="600" fill="#F8FAFC" text-anchor="middle" letter-spacing="0.4">
+    Kevin Setiawan Tanzil
+  </text>
+
+  <text x="600" y="156"
+        font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="18" font-style="italic" fill="#C7D2FE" text-anchor="middle" letter-spacing="0.3">
+    Problem Solver &amp; Dream Builder
+  </text>
+
+  <line x1="540" y1="178" x2="660" y2="178" stroke="#6366F1" stroke-width="1" opacity="0.55"/>
+
+  <text x="600" y="200"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="11" fill="#94A3B8" text-anchor="middle" letter-spacing="3">
+    EVERYWHERE  &amp;  ANYWHERE  IN  THE  GALAXY
+  </text>
+</svg>

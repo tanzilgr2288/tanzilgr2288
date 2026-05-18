@@ -1,9 +1,7 @@
-<!-- Header banner -->
+<!-- Header banner (self-hosted SVG, no third-party service) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:312E81&height=220&section=header&text=Kevin%20Setiawan%20Tanzil&fontSize=44&fontColor=F1F5F9&fontAlignY=38&desc=Problem%20Solver%20%26%20Dream%20Builder&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" alt="header banner" />
+  <img src="banner.svg" alt="Kevin Setiawan Tanzil — Problem Solver & Dream Builder · Everywhere & anywhere in the galaxy" />
 </p>
-
-<p align="center"><sub>Everywhere &amp; anywhere in the galaxy</sub></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=24292E&center=true&vCenter=true&width=560&lines=Backend-leaning+engineer.;Turning+rough+ideas+into+shipped+systems.;Building+dreams+in+Go+%26+AI+tooling." alt="typing intro" />
@@ -67,10 +65,6 @@
 ---
 
 <p align="center"><sub><i>Built with curiosity. Shipped with care.</i></sub></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E293B,100:0F172A&height=80&section=footer" alt="footer wave" />
-</p>
 
 <!---
 tanzilgr2288/tanzilgr2288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
