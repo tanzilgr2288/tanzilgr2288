@@ -1,12 +1,12 @@
 <h1 align="center">Kevin Setiawan Tanzil</h1>
 <p align="center"><i>Problem Solver &amp; Dream Builder</i></p>
-<p align="center">Jakarta &middot; Indonesia</p>
+<p align="center"><sub>Everywhere &amp; anywhere in the galaxy</sub></p>
 
 ---
 
 ### About
 
-Backend-leaning engineer who turns rough ideas into shipped systems. Most of my open work lives in Go &mdash; small libraries, services, and the occasional shapeshifting sea-god. Currently spending time around AI tooling and developer ergonomics.
+Backend-leaning engineer who turns rough ideas into shipped systems. My open work mostly lives in Go &mdash; small libraries, quiet services, and the occasional shapeshifting sea-god. Lately, building dreams in AI tooling and developer ergonomics.
 
 ### Featured Work
 
@@ -14,15 +14,15 @@ Backend-leaning engineer who turns rough ideas into shipped systems. Most of my 
   <tr>
     <td valign="top" width="33%">
       <h4><a href="https://github.com/tanzilgr2288/telegramwebhook">telegramwebhook</a></h4>
-      <sub>A super-lite Telegram webhook library in Go. Designed to run on serverless systems &mdash; small footprint, simple surface.</sub>
+      <sub>A super-lite Telegram webhook library in Go. Built to run on serverless &mdash; small footprint, simple surface.</sub>
     </td>
     <td valign="top" width="33%">
       <h4><a href="https://github.com/tanzilgr2288/say-hi-to-docker">say-hi-to-docker</a></h4>
-      <sub>Materials from a "Say Hi! Docker" sharing session &mdash; hands-on intro for getting started with containers.</sub>
+      <sub>Companion material for a "Say Hi! Docker" session &mdash; a friendly, hands-on intro to containers.</sub>
     </td>
     <td valign="top" width="33%">
       <h4><a href="https://github.com/tanzilgr2288/kubetalk-example">kubetalk-example</a></h4>
-      <sub>Companion content for a Kubernetes talk on stateful workloads and storage.</sub>
+      <sub>Reference code for a Kubernetes talk on stateful workloads and storage.</sub>
     </td>
   </tr>
 </table>
@@ -44,6 +44,10 @@ Backend-leaning engineer who turns rough ideas into shipped systems. Most of my 
 ### Connect
 
 - **Telegram** &mdash; [@kevintanzil](https://t.me/kevintanzil)
+
+---
+
+<p align="center"><sub><i>Built with curiosity. Shipped with care.</i></sub></p>
 
 <!---
 tanzilgr2288/tanzilgr2288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
