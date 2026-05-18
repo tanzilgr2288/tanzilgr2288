@@ -18,22 +18,55 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h4><a href="https://github.com/tanzilgr2288/telegramwebhook">telegramwebhook</a></h4>
-      <sub>A super-lite Telegram webhook library in Go. Built to run on serverless &mdash; small footprint, simple surface.</sub>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <p>
+        <img src="https://img.shields.io/badge/LIBRARY-475569?style=flat-square" alt="Library" />
+      </p>
+      <h4>
+        <a href="https://github.com/tanzilgr2288/telegramwebhook">telegramwebhook</a>
+      </h4>
+      <p>
+        <sub>Super-lite Telegram webhook library in Go. Built to run on serverless &mdash; small footprint, simple surface.</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      </p>
+      <p>
+        <a href="https://github.com/tanzilgr2288/telegramwebhook"><sub><b>View repository &nbsp;&rarr;</b></sub></a>
+      </p>
     </td>
     <td valign="top" width="33%">
-      <h4><a href="https://github.com/tanzilgr2288/say-hi-to-docker">say-hi-to-docker</a></h4>
-      <sub>Companion material for a "Say Hi! Docker" session &mdash; a friendly, hands-on intro to containers.</sub>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <p>
+        <img src="https://img.shields.io/badge/WORKSHOP-4F46E5?style=flat-square" alt="Workshop" />
+      </p>
+      <h4>
+        <a href="https://github.com/tanzilgr2288/say-hi-to-docker">say-hi-to-docker</a>
+      </h4>
+      <p>
+        <sub>Companion material for a "Say Hi! Docker" session &mdash; a friendly, hands-on intro to containers.</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p>
+        <a href="https://github.com/tanzilgr2288/say-hi-to-docker"><sub><b>View repository &nbsp;&rarr;</b></sub></a>
+      </p>
     </td>
     <td valign="top" width="33%">
-      <h4><a href="https://github.com/tanzilgr2288/kubetalk-example">kubetalk-example</a></h4>
-      <sub>Reference code for a Kubernetes talk on stateful workloads and storage.</sub>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <p>
+        <img src="https://img.shields.io/badge/TALK-7C3AED?style=flat-square" alt="Talk" />
+      </p>
+      <h4>
+        <a href="https://github.com/tanzilgr2288/kubetalk-example">kubetalk-example</a>
+      </h4>
+      <p>
+        <sub>Reference code for a Kubernetes talk on stateful workloads and storage.</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      </p>
+      <p>
+        <a href="https://github.com/tanzilgr2288/kubetalk-example"><sub><b>View repository &nbsp;&rarr;</b></sub></a>
+      </p>
     </td>
   </tr>
 </table>
